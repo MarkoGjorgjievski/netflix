@@ -1,4 +1,13 @@
-This is a Netflix.com clone exercise project where I explored working with Styled and Compound Components.
-This project is using Firebase as a database.
+This is a Netflix.com clone.
+This project is using Firebase for the authentication process and for the database.
 
+The user will need to Sign Up in order to Browse for a movie.
 
+By doing this project I explored: 
+
+  - Enabling Authentication for a User (powered by Firebase).
+  - Using Protected Routes (for non-Users)
+  - Redirection
+  - Compound and Styled Components, and more.
+  
+Credit for the tutor: Karl Hadwen - (https://www.youtube.com/watch?v=x_EEwGe-a9o&t=34541s)
